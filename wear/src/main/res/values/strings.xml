@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Push the Button</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="push_me">Push me!</string>
+    <string name="button_pressed">Button pressed</string>
+    <string name="wear_button_pressed">Wear button pressed!</string>
+    <string name="message_path">/message_path</string>
+    <string name="message_key">message</string>
+</resources>
